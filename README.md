@@ -1,7 +1,11 @@
 NAME:HEMALATHA M
+
 DOMAIN:DATA ANALYTICS
+
 ID:CT08PD981
+
 MENTOR:SARVANI GOURI
+
 TITLE:Customer segmentation using k-means algorithm
 
 OBJECTIVE:
